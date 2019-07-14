@@ -1,0 +1,30 @@
+﻿  pch.cpp
+  CtpDemo.cpp
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(17): error C2653: “CUser”: 不是类或命名空间名称
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(19): error C2065: “cout”: 未声明的标识符
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(19): error C2065: “endl”: 未声明的标识符
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(20): error C2065: “m_pUserApi”: 未声明的标识符
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(21): error C2065: “cout”: 未声明的标识符
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(21): error C2065: “endl”: 未声明的标识符
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(22): error C3861: “ReqAuthenticate”: 找不到标识符
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(25): error C2653: “CUser”: 不是类或命名空间名称
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(33): error C2065: “m_pUserApi”: 未声明的标识符
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(29): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(30): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(31): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(32): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(36): error C2653: “CUser”: 不是类或命名空间名称
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(42): error C3861: “ReqUserLogin”: 找不到标识符
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(47): error C2065: “cout”: 未声明的标识符
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(47): error C2065: “endl”: 未声明的标识符
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(51): error C2653: “CUser”: 不是类或命名空间名称
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(59): error C2065: “m_pUserApi”: 未声明的标识符
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(59): error C2065: “RequestID”: 未声明的标识符
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(57): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\work\mycpp\ctpdemo\ctpdemo\ctpdemo\ctpdemo.cpp(58): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
