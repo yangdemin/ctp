@@ -1,1 +1,3 @@
-﻿  CtpDemo.vcxproj -> D:\work\MyCpp\CTPDemo\CtpDemo\bin\debug\CtpDemo.exe
+﻿  pch.cpp
+  CtpDemo.cpp
+  CtpDemo.vcxproj -> D:\work\MyCpp\CTPDemo\CTP-Demo_git\ctp\bin\debug\CtpDemo.exe
